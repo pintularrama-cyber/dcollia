@@ -1,7 +1,4 @@
 
-Model
-¡Claro! Aquí tienes un borrador para tu archivo README de GitHub. Puedes copiarlo y pegarlo directamente, y luego personalizarlo con tus proyectos y enlaces.
-
 ¡Hola! Soy dcollia 👋
 ¡Bienvenido a mi rincón digital en GitHub! Soy un entusiasta principiante en el emocionante mundo del Data Analytics, el Machine Learning y el Big Data. Mi pasión radica en desentrañar las historias ocultas detrás de los datos y comunicarlas de manera efectiva.
 
